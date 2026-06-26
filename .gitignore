@@ -1,0 +1,11 @@
+# Database
+ab_testing.db
+*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
